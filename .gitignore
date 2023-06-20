@@ -1,0 +1,5 @@
+# Exclude the virtual environment files
+.venv
+
+# Exclude anything containing the sub-string "scratch"
+*scratch*
